@@ -4,9 +4,7 @@ Your team is responsible for building a mobile first responsive web page/templat
 
 ## Description
 
-The objective is to create a responsive boxed out version of one of the wireframes you created for the final integrated assignment. Your HTML5 and CSS file must validate. Semantic tagging is required.
-
-We decided to use our homepage for the TRAA website.
+The objective is to create a responsive boxed out version of one of the wireframes you created for the final integrated assignment. Your HTML5 and CSS file must validate. Semantic tagging is required. We decided to use our created homepage for the TRAA website.
 
 ## Getting Started
 
@@ -14,8 +12,7 @@ We decided to use our homepage for the TRAA website.
 
 * CSS3
 * HTML5
-* Be sure to prefix any bleeding-edge rules, tags, etc. (see [caniuse](https://caniuse.com/) for reference)
-* Also using lastest ES6/next, you should probably think about including [Babel](https://babeljs.io/) for transpilation (or an NPM Script)
+* Working and Updated Browser
 
 ### Installing
 
@@ -38,3 +35,4 @@ Inspiration, code snippets, etc.
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [README Formatting](https://guides.github.com/features/mastering-markdown/)
 * Trevor Van Rys
+* Thames River Anglers Association
